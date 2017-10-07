@@ -1,0 +1,2 @@
+git remote add pk git@build.pancake.io:oslo-alley-1333.git
+git push -u pk master
